@@ -16,3 +16,12 @@ Lines.exe (for Windows 10 x64): https://drive.google.com/drive/folders/1QdKySGuh
 
 Работоспособность проверялась лишь на Windows 10. Хотелось бы верить, что не возникнет проблем с dll'ками.
 
+![](https://github.com/IlyaVir/Lines/blob/main/Screenshots/Lines_0.png)
+
+![](https://github.com/IlyaVir/Lines/blob/main/Screenshots/Lines_1.png)
+
+![](https://github.com/IlyaVir/Lines/blob/main/Screenshots/Lines_2.png)
+
+![](https://github.com/IlyaVir/Lines/blob/main/Screenshots/Lines_3.png)
+
+![](https://github.com/IlyaVir/Lines/blob/main/Screenshots/Lines_5.png)
