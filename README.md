@@ -1,9 +1,9 @@
 # Lines
 Lines.exe (for Windows 10 x64): https://drive.google.com/drive/folders/1QdKySGuhoCfe9WLle2I6Vj4MIKJ2K5YI?usp=sharing
 
-Свой вариант игры Color Lines (https://ru.wikipedia.org/wiki/Color_Lines).
+Свой вариант игры <a href="https://ru.wikipedia.org/wiki/Color_Lines">Color Lines</a>.
 
-Написан на С++ с использованием библиотеки SFML.
+Написан на С++ с использованием библиотеки <a href="https://ru.wikipedia.org/wiki/SFML">SFML</a>.
 
 Особенности:
 - При запуске задаётся минимальное необходимое кол-во подряд идущих одинаковых шариков для схлапывания.
